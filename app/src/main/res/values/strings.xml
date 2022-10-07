@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Kehlokeeh</string>
+    <string name="favs_empty">¿Y eso keh lo keeeh?\n\n¡Escanea!</string>
+    <string name="enterprise">Fabricante</string>
+    <string name="town">Provincia</string>
+    <string name="city">Ciudad</string>
+    <string name="address">Dirección</string>
+
+
+
+
+</resources>
